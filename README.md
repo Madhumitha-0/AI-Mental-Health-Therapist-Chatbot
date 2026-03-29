@@ -111,7 +111,7 @@ ai-mood-chatbot/
 
 👩‍💻 Author
 
-Name: Madhumitha.v
+Name: Madhumitha.V
 
 ---
 
