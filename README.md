@@ -42,7 +42,7 @@ This project combines Computer Vision + AI + GUI to create an interactive mental
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/ai-mood-chatbot.git
+git clone https://github.com/Madhumitha-0/AI-Mental-Health-Chatbot.git
 cd ai-mood-chatbot
 
 ---
@@ -111,7 +111,7 @@ ai-mood-chatbot/
 
 👩‍💻 Author
 
-Name: Madhumitha Vasudevan
+Name: Madhumitha.v
 
 ---
 
