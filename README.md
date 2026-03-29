@@ -42,7 +42,7 @@ This project combines Computer Vision + AI + GUI to create an interactive mental
 
 Step 1: Clone the Repository
 
-git clone https://github.com/Madhumitha-0/AI-Mental-Health-Chatbot.git
+git clone https://github.com/Madhumitha-0/AI-Mental-Health-Therapist-Chatbot
 cd ai-mood-chatbot
 
 ---
